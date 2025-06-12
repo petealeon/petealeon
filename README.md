@@ -3,7 +3,7 @@ You've reached Peter Leonard's open source code bin.
 
 # Projects
 
-Currently I'm building a few small CLI applications, in Swift and targeting macOS. Details to follow when they are public.
+Currently I'm building a few small CLI applications in Swift, and targeting macOS. Details to follow when they are public.
 
 <!--
 - AudioPal: will be a simple command line audio player and looper with speed control, seek control, and loop control.
