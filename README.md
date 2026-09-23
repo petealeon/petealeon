@@ -1,27 +1,10 @@
-## Hello
-You've reached Peter Leonard's open source code bin.
+# Hello, I'm Peter
 
-# Projects
+This is my open-source code bin — small tools and utilities I build and share.
 
-Currently I'm building a few small CLI applications in Swift, and targeting macOS. Details to follow when they are public.
+## Now
 
-<!--
-- AudioPal: will be a simple command line audio player and looper with speed control, seek control, and loop control.
-- SigImposer: will be a simple CLI tool to rearrange PDF files into signatures for booklet printing for manual binding.
-- ProgressBar: (working title) will be a Swift library (a very small one) to render progress bars for the CLI. Wrote to use with audioPal, so might as well tidy it into a library.
--->
+- [DailyBibleReadings](https://github.com/petealeon/DailyBibleReadings) — a Daily Catholic readings widget for [Omarchy](https://omarchy.org), with matching USCCB podcast playback and a liturgical calendar. Written in QML/Quickshell.
+- Building small CLI tools in Swift for macOS.
 
-<!--
-**petealeon/petealeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also work on a few macOS CLI projects that aren't public yet — details when they are.
